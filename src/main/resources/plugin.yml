@@ -1,0 +1,6 @@
+name: OreBroadcastLogger
+main: be.bendem.bukkit.orebroadcastlogger.OreBroadcastLogger
+version: ${pom.version}
+author: bendem
+description: Log ore findings.
+depend: [OreBroadcast]

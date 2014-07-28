@@ -1,0 +1,2 @@
+# Appends new logs to existing file
+append: true
